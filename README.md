@@ -14,4 +14,4 @@ To produce numerical results in Section 5.2 about matrix functions, run code in 
   
   test_arnoldi_matfun_graph.m for Figure 5.6 and Figure 5.7
 
-[1]: Laura Grigori, Daniel Kressner, Nian Shao, Igor Simunec. ``Restoring similarity in randomized Krylov methods with applications to eigenvalue problems and matrix functions.'' 
+[1]: Laura Grigori, Daniel Kressner, Nian Shao, Igor Simunec. ``Restoring similarity in randomized Krylov methods with applications to eigenvalue problems and matrix functions.'' arXiv: 2601.10248
