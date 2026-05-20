@@ -20,4 +20,4 @@ To produce numerical results in Section 5.2 about matrix functions, run code in 
 
 Note: Due to the large scale of the test examples, execution may take from a few minutes up to several hours on a standard laptop.
 
-[1]: Laura Grigori, Daniel Kressner, Nian Shao, Igor Simunec. ``Restoring similarity in randomized Krylov methods with applications to eigenvalue problems and matrix functions.'' arXiv: 2601.10248
+[1]: Laura Grigori, Daniel Kressner, Nian Shao, Igor Simunec. ``Restoring similarity in randomized Krylov methods with applications to eigenvalue problems and matrix functions.'' arXiv: 2601.10248 (To appear in SISC)
